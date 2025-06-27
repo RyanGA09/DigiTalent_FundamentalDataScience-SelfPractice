@@ -9,10 +9,24 @@ This repository contains hands-on exercises and learning materials from DigiTale
 
 ## Repository Structure
 
-- `data_scraping/` — Notebooks and scripts for web scraping
-- `data_exploration/` — Notebooks for data exploration and visualization
-- `data_cleansing/` — Examples of data cleaning
-- `data_annotation/` — Examples and methods for data labeling
+```bash
+DigiTalentPractice-FundamentalDataScience/
+├── data/                          # Contains raw/external datasets
+│   ├── Data_Nasabah.csv           # Local dataset
+│   └── train_prices.csv           # Kaggle dataset (not included in repo)
+│
+├── notebooks/                     # Jupyter notebooks
+│   ├── self_practice-1.ipynb
+│   ├── self_practice-2.ipynb
+│   ├── self_practice-3.ipynb
+│   └── self_practice-4.ipynb
+│
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project overview and setup instructions
+├── LICENSE                        # Project License
+└── .gitignore                     # Files/folders to exclude from version control
+
+```
 
 ## How to Use
 
