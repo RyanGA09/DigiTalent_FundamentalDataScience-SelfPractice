@@ -1,4 +1,4 @@
-# 📊 DigiTalent Practice - Fundamental Data Science
+# 📊 DigiTalent Fundamental Data Science - Self Practice
 
 ## 📅 Created On
 
