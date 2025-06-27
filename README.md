@@ -79,6 +79,15 @@ DigiTalentPractice-FundamentalDataScience/
 
 3. 📘 Open the notebook corresponding to the topic you want to learn and run the code cells sequentially.
 
+## 👨‍💻 Author
+
+Ryan Gading Abdullah
+
+- [GitHub](https://github.com/RyanGA09)
+- [Gitlab](https://gitlab.com/RyanGA09)
+- [Instagram](https://instagram.com/ryan_g._a)
+- [Linkedin](https://www.linkedin.com/in/ryan-gading-abdullah/)
+
 ## 🪪 LICENSE
 
 Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
