@@ -1,0 +1,19 @@
+# For web scraping
+requests
+beautifulsoup4
+selenium
+
+# For data manipulation and analysis
+pandas
+numpy
+
+# For Data Visualization
+matplotlib
+seaborn
+
+# For annotation, if you use simple tools
+jupyterlab
+notebook
+
+# Opsional
+scikit-learn
