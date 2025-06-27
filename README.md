@@ -33,7 +33,7 @@ DigiTalentPractice-FundamentalDataScience/
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/username/DigiTalentPractice-FundamentalDataScience.git
+   git clone https://github.com/RyanGA09/DigiTalentPractice-FundamentalDataScience.git
    ```
 
 2. Install the environment (recommended to use venv or conda):
