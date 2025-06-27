@@ -83,10 +83,8 @@ DigiTalentPractice-FundamentalDataScience/
 
 Ryan Gading Abdullah
 
-- [GitHub](https://github.com/RyanGA09)
-- [Gitlab](https://gitlab.com/RyanGA09)
-- [Instagram](https://instagram.com/ryan_g._a)
-- [Linkedin](https://www.linkedin.com/in/ryan-gading-abdullah/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanGA09) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/RyanGA09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan_g._a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-gading-abdullah/)
 
 ## 🪪 LICENSE
 
